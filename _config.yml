@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Songhui Yue"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Dr. Songhui Yue received a Ph.D. in Computer Science in August 2019 from the Department of Computer Science at the University of Alabama (UA) in Tuscaloosa, Alabama. In 2009, Dr. Yue graduated with a BE in Software Engineering Institute from East China Normal University in Shanghai, China. He has over five years of industry experience working on web application development and data analysis. "
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Charleston Southern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "syue at csuniv dot edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.charlestonsouthern.edu/directory/yue-songhui/"# URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=aXeFBCUAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-0945-3105"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
