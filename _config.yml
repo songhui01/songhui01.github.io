@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Songhui Yue's Github IO"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Songhui Yue"
 description              : &description "personal description"
@@ -20,13 +20,14 @@ repository               : "songhui01/songhui01.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+# He received a Ph.D. in Computer Science in August 2019 from the Department of Computer Science at the University of Alabama (UA) in Tuscaloosa, Alabama. In 2009, Dr. Yue graduated with a BE in Software Engineering Institute from East China Normal University in Shanghai, China. He has over five years of industry experience working on web application development and data analysis. 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Songhui_Yue_Bio.jpg"
   name             : "Songhui Yue"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Songhui Yue received a Ph.D. in Computer Science in August 2019 from the Department of Computer Science at the University of Alabama (UA) in Tuscaloosa, Alabama. In 2009, Dr. Yue graduated with a BE in Software Engineering Institute from East China Normal University in Shanghai, China. He has over five years of industry experience working on web application development and data analysis. "
-  location         : "Earth"
+  bio              : "Dr. Songhui Yue is an Assistant Professor of Computer Science at Charleston Southern University."
+  location         : "North Charleston, South Carolina"
   employer         : "Charleston Southern University"
   uri              : # URL
   email            : "syue at csuniv dot edu" 
@@ -52,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "songhui-yue-06544971"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

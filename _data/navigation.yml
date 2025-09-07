@@ -10,24 +10,14 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
+  - title: "Projects"
+    url: /projects/
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /teaching/
+  # - title: "Datasets"
+  #   url: /data/
+  # - title: "Openings"
+  #   url: /openings/
   # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  #   url: /cv/
+
