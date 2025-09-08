@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 211"
+title: "CS200 Software Engineering"
 collection: teaching
-type: "Workshop"
+type: "undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Charleston Southern University, Computer Science Department"
-date: 2022-08-01 - Now
-location: "North Charleston, South Carolina"
+venue: "University of Alabama, Computer Science Department"
+date: 2017-08-01
+location: "Tuscaloosa, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+(2017 - 2019) Graduate Teaching Assistant at the University of Alabama. Gave lab Lectures each Wednesday, and oversaw and graded the term project. One class can have over 150 students, and the project is to build a complex system using Java through four phases, from requirement analysis to full-fledged software
 
 Heading 1
 ======
